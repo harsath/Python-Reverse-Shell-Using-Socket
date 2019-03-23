@@ -4,4 +4,4 @@
 
 ### License & copyright
 © Harsath <br>
-<pre> Licensed under the [MIT License](LICENSE).
+<pre> Licensed under the MIT License.
